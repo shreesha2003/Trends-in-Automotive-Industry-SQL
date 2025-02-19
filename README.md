@@ -41,6 +41,4 @@ Using **SQL**, I explored the data to derive insights that can **guide pricing, 
 🔹 Assists in **predicting car price depreciation** to help consumers make informed purchase decisions.  
 🔹 Guides **marketing strategies** by revealing **consumer preferences** and price sensitivity.  
 
-### 🏆 **Key Takeaways**  
-This project demonstrates **my ability to use SQL for in-depth automotive industry analysis**, uncovering trends that support **pricing strategies, inventory planning, and customer insights**. The advanced **data analytics techniques** showcased here are valuable for **business decision-making and market forecasting** in the automobile sector.  
 
